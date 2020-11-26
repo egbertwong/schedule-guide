@@ -1,0 +1,24 @@
+{
+  "name": "schedule-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egbertwong/schedule-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egbertwong/schedule-guide/issues"
+  },
+  "homepage": "https://github.com/egbertwong/schedule-guide#readme",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
